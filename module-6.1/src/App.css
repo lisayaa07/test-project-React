@@ -1,0 +1,29 @@
+button{
+    padding: 5px;
+    margin: auto 5px;
+    margin-bottom: 10px;
+    background-color: yellowgreen;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+input{
+    padding: 5px;
+    margin: auto 5px;
+    margin-top: 10px;
+    border: 2px solid red;
+    border-radius: 3px;
+
+}
+
+input:focus{
+    outline: none;
+}
+
+p{
+     margin: auto 5px;
+}
+
+h2{
+     margin: auto 5px;
+}
