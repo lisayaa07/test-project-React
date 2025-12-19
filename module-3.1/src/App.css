@@ -1,0 +1,32 @@
+header{
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: aliceblue;
+}
+
+main{
+  width: 25%;             
+  margin: 30px auto;       
+  /* background-color: aqua; */
+  border: 2px solid red;
+  padding: 20px;
+}
+
+input{
+  display: block;        
+  margin: 0 auto 3px;   
+  width: 250px;
+  padding: 8px;
+}
+
+input:focus{
+    outline: none;
+    
+}
+
+p{
+  font-size: 15px;
+  margin: 2px;
+  padding: 5px;
+}
