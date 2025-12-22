@@ -1,0 +1,51 @@
+header{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.section1{
+  margin: auto 10px;
+  
+  
+}
+.section2{
+  margin: auto 10px;
+  margin-top: 15px;
+
+}
+
+
+input{
+  padding: 5px;
+  margin-left: 10px;
+}
+
+input:focus{
+  outline: none;
+}
+
+p{
+  margin: 5px;
+  padding: 3px;
+  
+
+}
+
+.btn-delete{
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px;
+  border: none;
+  margin-left: 10px;
+
+}
+
+.btn-add{
+  background-color: greenyellow;
+  margin: auto 10px;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
